@@ -1,0 +1,1 @@
+The goal of this project is to develop a predictive model using Support Vector Machines (SVMs) to accurately classify individuals as diabetic or non-diabetic based on their medical data. This model aims to aid in the early diagnosis of diabetes, potentially leading to better management strategies and improved health outcomes.
